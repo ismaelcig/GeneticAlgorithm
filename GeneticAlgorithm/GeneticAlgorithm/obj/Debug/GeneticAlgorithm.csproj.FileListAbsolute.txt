@@ -12,3 +12,17 @@ c:\users\ismaelci\documents\visual studio 2017\Projects\GeneticAlgorithm\Genetic
 c:\users\ismaelci\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
 c:\users\ismaelci\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
 c:\users\ismaelci\documents\visual studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\MainWindow.g.cs
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\App.g.cs
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm_MarkupCompile.cache
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm_MarkupCompile.lref
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\MainWindow.baml
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.g.resources
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb

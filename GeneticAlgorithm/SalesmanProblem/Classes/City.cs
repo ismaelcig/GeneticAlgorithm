@@ -10,6 +10,7 @@ namespace SalesmanProblem.Classes
     {
         int x;
         int y;
+        string name;
 
         #region Constructors
         //Constructs a randomly placed city
@@ -18,11 +19,20 @@ namespace SalesmanProblem.Classes
             Random rnd = new Random();
             this.x = (int)(rnd.NextDouble() * 200);
             this.y = (int)(rnd.NextDouble() * 200);
+            this.name = "|" + x + ", " + y + "|";
         }
 
         //Constructs a city at chosen x/y location
         public City(int x, int y)
         {
+            this.x = x;
+            this.y = y;
+        }
+
+        //Constructs a city at chosen x/y location with name
+        public City(string name, int x, int y)
+        {
+            this.name = name;
             this.x = x;
             this.y = y;
         }
@@ -41,6 +51,12 @@ namespace SalesmanProblem.Classes
             return this.y;
         }
 
+        //Get's city's name
+        public string GetName()
+        {
+            return this.name;
+        }
+
         //Gets the distance to given city
         public double DistanceTo(City city)
         {
@@ -54,7 +70,8 @@ namespace SalesmanProblem.Classes
 
         public override string ToString()
         {
-            return GetX() + ", " + GetY();
+            //return GetX() + ", " + GetY();
+            return name;
         }
     }
 }

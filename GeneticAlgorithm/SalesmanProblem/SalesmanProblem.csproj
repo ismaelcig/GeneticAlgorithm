@@ -42,7 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\AuxClass.cs" />
     <Compile Include="Classes\City.cs" />
+    <Compile Include="Classes\GA.cs" />
     <Compile Include="Classes\Population.cs" />
     <Compile Include="Classes\Tour.cs" />
     <Compile Include="Classes\TourManager.cs" />

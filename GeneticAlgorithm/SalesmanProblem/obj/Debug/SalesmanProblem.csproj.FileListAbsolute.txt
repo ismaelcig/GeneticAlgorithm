@@ -1,0 +1,6 @@
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\SalesmanProblem\bin\Debug\SalesmanProblem.exe.config
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\SalesmanProblem\bin\Debug\SalesmanProblem.exe
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\SalesmanProblem\bin\Debug\SalesmanProblem.pdb
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\SalesmanProblem\obj\Debug\SalesmanProblem.csprojResolveAssemblyReference.cache
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\SalesmanProblem\obj\Debug\SalesmanProblem.exe
+C:\Users\ismaelci\Documents\GitHub\GeneticAlgorithm\GeneticAlgorithm\SalesmanProblem\obj\Debug\SalesmanProblem.pdb

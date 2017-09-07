@@ -51,6 +51,7 @@ namespace GeneticAlgorithm
                     {
                         Console.Write(b);
                     }
+                    Console.WriteLine("");
                     bestFittness = myPop.GetFittest().GetFitness();
                 }
                 myPop = Algorithm.EvolvePopulation(myPop);
